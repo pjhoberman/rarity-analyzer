@@ -1,0 +1,12 @@
+{
+    "contract": "0x25171B354F3e192Ea4fB0c1268255D7A64448C91",
+    "name": "test name",
+    "description": "test desc",
+    "image": "https://lh3.googleusercontent.com/hmlw19Tj1HFCfpOaS2Nl2Te9VhAhtuQ2hwTgn-otgkmOzKaX_7Ww0DqtT_Jz20PL1-qdmMQ94im4jbGrLNjCKz7xUtBcgnoGvjvv-Q",
+    "external_link": "https://artblocks.io/project/173",
+    "symbol": "BLOCKS",
+    "links": {
+        "openSea": "https://opensea.io/collection/art-blocks",
+        "artist": "https://piterpasma.nl/skulptuur"
+    }
+}
